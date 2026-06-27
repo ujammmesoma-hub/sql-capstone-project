@@ -85,7 +85,7 @@ sql-capstone-project/
 5. Export query results for reporting and create charts using Microsoft Excel.
 6. Review the analytical report located in the 'portfolio' folder.
 
-
+https://github.com/ujammmesoma-hub/sql-capstone-project
 
 ## License
 
